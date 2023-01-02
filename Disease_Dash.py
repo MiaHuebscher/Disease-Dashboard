@@ -205,7 +205,8 @@ def update_predictor(options_chosen, checklist, radio_button, value):
     
     **Your recommended precautions:** {prec_str}
     
-    ## Notice: the diagnosis you have obtained from this site is merely a *prediction*. Please consult a doctor before experiencing concern and/or seeking any medical treatment. 
+    ## Notice: the diagnosis you have obtained from this site is merely a *prediction*. Please consult a doctor before \
+    experiencing concern and/or seeking any medical treatment. 
     
         """, id='text_return', style={'margin':30, 'font-family': style['font-family'], 'color': style['text']})
 
