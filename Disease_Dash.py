@@ -39,6 +39,7 @@ disease_unique = list(dis_prev_df.Short_Question_Text.unique())
 
 # Build an app to display sunspot data
 app = Dash(__name__)
+server = app.server
 
 # Due to the implementation of tabs, suppress callback exceptions
 app.config.suppress_callback_exceptions = True
