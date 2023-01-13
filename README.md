@@ -1,2 +1,2 @@
 # Disease-Dashboard
-A dashboard containing disease prediction and information reporting capabilities.
+This code produces a dashboard containing disease prediction and disease information reporting capabilities. With this dashboard, users can input symptoms they might be experiencing and utilize a machine learning model of their choice (Random Forest, Naïve Bayes, K-Nearest Neighbors, or Logistic Regression) to receive a prediction of the disease they might have. Along with this prediction, users will receive a list of precautions to take given their predicted disease and a warning to consult a doctor before any serious actions are taken. 
