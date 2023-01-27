@@ -8,4 +8,4 @@ In this dashboard, users can also see visualizations that report disease data ac
 
 This dashboard is deployed at , however due to memory issues, the prediction functionality does not work. 
 
-To deploy this dashboard on your own computer, run the ___ file.
+To deploy this dashboard on your own computer, run the Disease_Dash.py file.
