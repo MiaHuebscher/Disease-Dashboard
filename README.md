@@ -9,3 +9,9 @@ In this dashboard, users can also see visualizations that report disease data ac
 This dashboard is deployed at , however due to memory issues, the prediction functionality does not work. 
 
 To deploy this dashboard on your own computer, run the Disease_Dash.py file.
+
+
+
+
+https://user-images.githubusercontent.com/101904348/215290358-a96f4964-b00d-4879-97ea-1b64a8f0cf5c.mp4
+
